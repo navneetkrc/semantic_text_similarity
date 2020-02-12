@@ -13,7 +13,7 @@ End-to-end searching pipeline for finding semantic text similarity. By using Glo
 - similar_git.py is the file containing code for text searching using FAISS.
 - Notebook similar_test.ipynb is main file from which we perform the search.
 - We can also use any embeddings other than GloVe. Just update the vector column named "emb" in train and test data file.
-- Similarity results are returned in a dataframe. 
+- Similarity results are returned in a dataframe with similarity score and text. 
 
 ## Credits and Downloads:
 - Data is taken from [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/overview) Kaggle competition. Download data [here](https://www.kaggle.com/c/nlp-getting-started/data). 
