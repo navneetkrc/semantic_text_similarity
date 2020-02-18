@@ -1,4 +1,4 @@
-## Semantic Text Similarity
+# Semantic Text Similarity
 End-to-end searching pipeline for finding semantic text similarity. By using GloVe embeddings we can perform semantic search on a large corpus of text. [FAISS](https://github.com/facebookresearch/faiss) (Facebook AI Similarity Search) is a library that is used to quickly search for embeddings of multi-dimensional documents that are similar to each other.
 
 ## Setup:
